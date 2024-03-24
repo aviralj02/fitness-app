@@ -2,4 +2,4 @@
 
 A simple UI specific app made with Flutter.
 
-![preview](./assets/icons/preview.png)
+![preview](./assets/icons/preview.jpg)
